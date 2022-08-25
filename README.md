@@ -17,6 +17,8 @@
 # Sobre
 
 - A ideia do projeto é criar uma página de reviews de filmes.
+- Este projeto é baseado no vídeo do canal <a href="https://www.youtube.com/watch?v=9Bvt6BFf6_U">
+Asish George Tech.</a>
 - Se você encontrar algum bug ou quiser me dar alguma dica fique a vontade para me chamar no email: ythiagohcfidencio@gmail.com
  
 # Tecnologias
